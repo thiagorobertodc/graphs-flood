@@ -1,3 +1,3 @@
-# graph-inundation-
-Eurística gulosa de inundação em um grafo conectado. 
-This algorithm helps you to inundate a graph with a specific color, through out a greedy heuristic. 
+# graph flooding
+Greedy flooding euristic in a connected graph.
+This algorithm helps you to flood a graph with a specific color, through out a greedy heuristic.
